@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
