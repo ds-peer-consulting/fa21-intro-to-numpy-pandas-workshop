@@ -1,10 +1,9 @@
 # Workshop Name
-By: Name1, Name2, Name3
-Workshop Date: 1/1/11
+By: Simran Sachdev, John Park, Carlos Ortega, Sammy Sheldon
+Workshop Date: 1/21/11
 
 ## Workshop Goal(s): 
-Set up a repository structure to encourage a consistent standard for workshop creation.
-Update this to be the same as the goals in the notebook.
+<TODO>
 
 ## For UC Berkeley Students: [Datahub Link]()
 
