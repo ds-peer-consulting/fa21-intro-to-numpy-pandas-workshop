@@ -1,3 +1,7 @@
+<div>
+<img src="images/analysis_visualization.png" width="1200" style="float:center"/>
+</div>
+
 # Workshop Name
 By: Simran Sachdev, John Park, Carlos Ortega, Sammy Sheldon
 
