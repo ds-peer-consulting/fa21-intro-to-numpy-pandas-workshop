@@ -19,4 +19,4 @@ The goal of this workshop is to cover the fundamentals of numpy and Pandas and g
 
 ## For UC Berkeley Students: [Datahub Link](https://datahub.berkeley.edu/hub/user-redirect/interact?account=ds-peer-consulting&repo=sp21-intro-to-numpy-pandas-workshop&branch=main&subpath=intro-to-numpy-pandas.ipynb)
 
-## For everyone else: [![Binder](https://mybinder.org/badge_logo.svg)]()
+## For everyone else: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-peer-consulting/sp21-intro-to-numpy-pandas-workshop/HEAD)
