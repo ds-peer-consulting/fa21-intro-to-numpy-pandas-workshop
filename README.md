@@ -1,5 +1,5 @@
 <div>
-<img src="Screen Shot 2021-09-21 at 3.45.10 PM.png" width="1200" style="float:center"/>
+<img src="images/updated_workshop_image.png" width="1200" style="float:center"/>
 </div>
 
 # Intro to Numpy + Pandas Workshop
