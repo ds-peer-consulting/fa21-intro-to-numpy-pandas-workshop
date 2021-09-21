@@ -4,10 +4,10 @@
 
 # Intro to Numpy + Pandas Workshop
 
-By: Simran Sachdev, John Park, Carlos Ortega, Sammy Sheldon
+By: Jillian Criscuolo, Mein Lee, Nayan Chavan, Aashritha Srirambhatla
 
 
-Workshop Date: 1/21/11
+Workshop Date: 9/29/21
 
 ## Workshop Goal(s): 
 
@@ -17,9 +17,9 @@ The goal of this workshop is to cover the fundamentals of numpy and Pandas and g
 - Apply the basic Pandas data structures as well as the basic table operations onto dataframes 
 - Demonstrate the basic workflow for intaking data and exploring it using Numpy and Pandas
 
-## For UC Berkeley Students: [Datahub Link](https://datahub.berkeley.edu/hub/user-redirect/interact?account=ds-peer-consulting&repo=sp21-intro-to-numpy-pandas-workshop&branch=main&subpath=intro-to-numpy-pandas.ipynb)
+## For UC Berkeley Students: [Datahub Link](https://datahub.berkeley.edu/hub/user-redirect/interact?account=ds-peer-consulting&repo=fa21-intro-to-numpy-pandas-workshop&branch=main&subpath=intro-to-numpy-pandas.ipynb)
 
-## For everyone else: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-peer-consulting/sp21-intro-to-numpy-pandas-workshop/HEAD)
+## For everyone else: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-peer-consulting/fa21-intro-to-numpy-pandas-workshop/HEAD)
 
 [Workshop Recording](https://drive.google.com/file/d/1AQPmoz2BrYPrbmwIJhj07rKgxBvAElj-/view?usp=sharing)  
 [Transcript of Recording](https://drive.google.com/file/d/160lIlQ3n1LT8ny_kR4MhS61Y_rffw1hJ/view?usp=sharing)
