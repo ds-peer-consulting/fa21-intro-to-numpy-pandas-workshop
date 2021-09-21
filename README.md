@@ -4,7 +4,8 @@
 
 # Intro to Numpy + Pandas Workshop
 
-By: Jillian Criscuolo, Mein Lee, Nayan Chavan, Aashritha Srirambhatla
+Instructors: Jillian Criscuolo, Mein Lee
+Helpers: Nayan Chavan, Aashritha Srirambhatla
 
 
 Workshop Date: 9/29/21
