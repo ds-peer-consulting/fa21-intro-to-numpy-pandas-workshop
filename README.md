@@ -22,5 +22,7 @@ The goal of this workshop is to cover the fundamentals of numpy and Pandas and g
 
 ## For everyone else: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-peer-consulting/fa21-intro-to-numpy-pandas-workshop/HEAD)
 
-[Workshop Recording](https://drive.google.com/file/d/1AQPmoz2BrYPrbmwIJhj07rKgxBvAElj-/view?usp=sharing)  
-[Transcript of Recording](https://drive.google.com/file/d/160lIlQ3n1LT8ny_kR4MhS61Y_rffw1hJ/view?usp=sharing)
+[F21 Workshop Recording](https://drive.google.com/drive/folders/1oRm2wvDhETofOXa0_WrCX5p4M6oN67SY?usp=sharing)
+[S21 Workshop Recording](https://drive.google.com/file/d/1AQPmoz2BrYPrbmwIJhj07rKgxBvAElj-/view?usp=sharing)  
+[S21 Transcript of Recording](https://drive.google.com/file/d/160lIlQ3n1LT8ny_kR4MhS61Y_rffw1hJ/view?usp=sharing)
+
